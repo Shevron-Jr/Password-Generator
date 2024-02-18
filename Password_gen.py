@@ -24,7 +24,7 @@ print(f"Your password is: {password}")
 """
 
 
-#Hard Level
+#Hard Level Generator
 password = []
 
 for p in range(1, nr_letters + 1):
