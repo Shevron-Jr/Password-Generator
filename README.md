@@ -10,7 +10,7 @@ The program will ask:
 3. How many numbers would you like?
 
 The objective is to take the inputs from the user to these questions and then generate a random password. 
-- My knowledge about Python lists and loops was use to complete this project.
+- My knowledge about Python lists and loops was used to complete this project.
 
 #### Easy Level Generator
 I generated the password in sequence. If the user wants:
