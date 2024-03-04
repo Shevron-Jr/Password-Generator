@@ -27,4 +27,4 @@ In the advanced version of this project the final password does not follow a pat
 
 "x$d24g*f9"
 And every time a new password is being generated, the positions of the symbols, numbers, and letters are different.
-".shuffle()" helped is scattering the position of the generated password.
+".shuffle()" helped in scattering the position of the generated password.
